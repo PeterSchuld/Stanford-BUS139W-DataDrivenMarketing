@@ -1,5 +1,6 @@
 # Stanford-BUS 139W Data-Driven Marketing
 Stanford Continuing Studies course "Data-Driven Marketing" by Angel Evan, Consultant. Completed Winter 2017-2018 
+
 BUS 139 is a course for those interested in developing a set of foundational skills in the use of marketing-related data. It is
 expressly designed for students without math,quantitative or statistical backgrounds and requires no expensive third-party software
 of hardware—only a Mac or PC version of Microsoft Excel 2013 or later. Each session deals with a core data concept and is
